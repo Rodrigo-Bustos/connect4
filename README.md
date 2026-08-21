@@ -1,2 +1,3 @@
 # connect4
-first project in c++
+first project in python
+
